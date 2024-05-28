@@ -1,0 +1,27 @@
+.banner {
+  background: url("Platycerium.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.display-3 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff; /* Ubah warna teks sesuai kebutuhan */
+  margin-bottom: 1rem; /* Berikan margin bawah agar tidak terlalu rapat dengan elemen berikutnya */
+}
+
+.text-center {
+  text-align: center;
+  color: #000000; /* Ubah warna teks sesuai kebutuhan */
+  font-size: 1.2rem; /* Sesuaikan ukuran font dengan kebutuhan */
+  margin-bottom: 2rem; /* Berikan margin bawah agar tidak terlalu rapat dengan elemen berikutnya */
+}
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
